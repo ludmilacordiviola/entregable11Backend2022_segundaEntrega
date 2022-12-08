@@ -1,0 +1,11 @@
+{
+  "name": "entregable11backend2022_segundaentrega",
+  "version": "1.0.0",
+  "description": "segunda entrega proyecto final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lcordivi",
+  "license": "ISC"
+}
